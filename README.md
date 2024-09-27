@@ -16,32 +16,6 @@ Tailwind CSS provides low-level utility classes that let you build completely cu
 
 ## Usage
 
-1. Add the paths to all of your template files in the `tailwind.config.js` file:
-
-   ```js
-   module.exports = {
-     content: [
-       './src/**/*.{html,js}',
-       './public/index.html',
-     ],
-     theme: {
-       extend: {},
-     },
-     plugins: [],
-   };
-   ```
-
-2. Create a CSS file (e.g., `src/styles.css`) and add the following:
-
-   ```css
-   @tailwind base;
-   @tailwind components;
-   @tailwind utilities;
-   ```
-
-
-4. Include the compiled CSS file in your HTML:
-
-   ```html
-   <link href="/dist/output.css" rel="stylesheet">
-   ```
+Build your HTML structure using utility classes provided by Tailwind CSS. Each class corresponds to a specific style, making it easy to design without writing custom CSS.
+For production, ensure you’re purging unused styles to keep your CSS file size small.
+Tailwind CSS provides responsive utility classes to adjust styles at different breakpoints.
