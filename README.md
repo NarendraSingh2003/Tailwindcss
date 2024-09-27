@@ -15,6 +15,6 @@ Tailwind CSS provides low-level utility classes that let you build completely cu
 
 ## Usage
 
-Build your HTML structure using utility classes provided by Tailwind CSS. Each class corresponds to a specific style, making it easy to design without writing custom CSS.
-For production, ensure you’re purging unused styles to keep your CSS file size small.
-Tailwind CSS provides responsive utility classes to adjust styles at different breakpoints.
+- Build your HTML structure using utility classes provided by Tailwind CSS. Each class corresponds to a specific style, making it easy to design without writing custom CSS.
+- For production, ensure you’re purging unused styles to keep your CSS file size small.
+- Tailwind CSS provides responsive utility classes to adjust styles at different breakpoints.
