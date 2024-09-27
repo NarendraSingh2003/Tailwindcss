@@ -7,7 +7,6 @@ This project is a simple implementation of [Tailwind CSS](https://tailwindcss.co
 
 - [Introduction](#introduction)
 - [Usage](#usage)
-- [Development](#development)
 
 ## Introduction
 
