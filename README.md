@@ -39,11 +39,6 @@ Tailwind CSS provides low-level utility classes that let you build completely cu
    @tailwind utilities;
    ```
 
-3. Build your CSS:
-
-   ```bash
-   npx tailwindcss -i ./src/styles.css -o ./dist/output.css --watch
-   ```
 
 4. Include the compiled CSS file in your HTML:
 
