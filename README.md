@@ -3,11 +3,6 @@
 
 This project is a simple implementation of [Tailwind CSS](https://tailwindcss.com/), a utility-first CSS framework for rapidly building custom designs.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Usage](#usage)
-
 ## Introduction
 
 Tailwind CSS provides low-level utility classes that let you build completely custom designs without leaving your HTML. This project aims to demonstrate how to integrate and use Tailwind CSS in a web development environment.
